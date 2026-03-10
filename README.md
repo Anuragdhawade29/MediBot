@@ -1,4 +1,4 @@
-# MediBot: RAG-Based Medical Triage Assistant
+# MediBot: RAG-Based Medical Assistant
 
 Created by **Anurag Dhawade**
 
@@ -118,13 +118,3 @@ Open:
 ### Missing FAISS index
 - Run `create_memory_for_llm.py` first
 
-### Dependencies missing
-- Reinstall with:
-```powershell
-pip install -r requirements.txt
-```
-
-## Disclaimer
-
-This project is for educational and informational use only.  
-It is not a substitute for professional medical diagnosis or treatment.
