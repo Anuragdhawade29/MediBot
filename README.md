@@ -1,6 +1,10 @@
 # MediBot: RAG-Based Medical Assistant
 
-Created by **Anurag Dhawade**
+## Assessment Information
+Full Name: Anurag Rajesh Dhawade  
+Email ID: anuragdhawade09@gmail.com  
+College Name: G.H. Raisoni College of Engineering, Nagpur 
+Selected Skill Track: AI & Machine Learning
 
 MediBot is a Streamlit medical assistant built on Retrieval-Augmented Generation (RAG).  
 It uses a local FAISS vector store from medical PDFs and answers with context-grounded responses.
