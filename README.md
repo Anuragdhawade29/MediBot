@@ -1,8 +1,10 @@
 # MediBot: RAG-Based Medical Assistant
 
 ## Assessment Information
-Full Name: Anurag Rajesh Dhawade  
+Full Name: Anurag Rajesh Dhawade
+
 Email ID: anuragdhawade09@gmail.com  
+
 College Name: G.H. Raisoni College of Engineering, Nagpur
 
 Selected Skill Track: AI & Machine Learning
